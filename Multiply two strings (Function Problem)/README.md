@@ -1,3 +1,7 @@
+# Difficulty Level: Medium
+## Multiply two strings (Function Problem)
+
+
 Given two numbers as stings s1 and s2 your task is to multiply them. You are required to complete the function multiplyStrings which takes two strings s1 and s2 as its only argument and returns their product as strings.
 
 Input:
