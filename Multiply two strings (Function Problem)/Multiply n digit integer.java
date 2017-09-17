@@ -5,9 +5,9 @@ public class multiply
     {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         
-        String a = "33";
+        String a = "/*Replace this with an integer value*/";
         int l1 = a.length();
-        String b = "2";
+        String b = "/*Replace this with an integer value*/";
         int l2 = b.length();  
         
         int max = Math.max(l1,l2);          
