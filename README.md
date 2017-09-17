@@ -1,1 +1,1 @@
-# A Solution for the problems on Geeks for Geeks
+# Solutions for the problems on Geeks for Geeks
